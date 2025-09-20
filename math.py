@@ -2,3 +2,4 @@
 print("2 + 3 =", 2 + 3)
 # Simple math example 2
 print("21 + 3 =", 2 + 31)
+print("5 - 2 =", 5 - 2)
