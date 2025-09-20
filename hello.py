@@ -1,1 +1,1 @@
-print("Hello from my practice repo!")
+print("Hello all from my practice repo!")
